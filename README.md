@@ -4,7 +4,7 @@ City Pulse is a React Native mobile application that helps users discover local 
 The app also includes Firebase authentication and biometric login for a smooth and secure experience.
 
 
-📱 **Features**
+📱 **Features - check**
 
 _1. Authentication (Firebase + Biometric)_
 
